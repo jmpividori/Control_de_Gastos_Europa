@@ -4,4 +4,4 @@ plotly_express
 plotly
 pandas
 datetime
-matplotlib.pyplot
+matplotlib
