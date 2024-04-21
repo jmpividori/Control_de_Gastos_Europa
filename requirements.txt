@@ -1,0 +1,7 @@
+stremalit
+st-gsheets-connection
+plotly_express
+plotly
+pandas
+datetime
+matplotlib.pyplot
