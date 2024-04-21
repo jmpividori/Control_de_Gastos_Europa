@@ -1,4 +1,4 @@
-stremalit
+streamlit
 st-gsheets-connection
 plotly_express
 plotly
